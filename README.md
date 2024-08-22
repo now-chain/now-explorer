@@ -2,7 +2,7 @@
 <p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
 <div align="center">
 
-[NOW Coin](https://github.com/nowchain/nowcoin/actions)
+[NOW Coin](https://github.com/now-chain/nowcoin/actions)
 [Discord](https://discord.gg/D8hPPJ4uKR)
 
 </div>
