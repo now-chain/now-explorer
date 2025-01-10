@@ -1,4 +1,4 @@
-<h1 align="center">NOW Coin</h1>
+<h1 align="center">NOW Scan</h1>
 <p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
 <div align="center">
 
